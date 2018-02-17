@@ -1,6 +1,8 @@
 # test_mdwiki
 MDwiki のテスト。
 
+[サンプルはこちら](https://stakiran.github.io/test_mdwiki/)
+
 ## MDwiki でコンテンツを公開するまで
 - repo つくる
 - repo > Settings > GitHub Pages > Source にて master branch を指定して Save
